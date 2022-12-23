@@ -13,7 +13,7 @@ I added a function to generate passwords from a random string of characters base
 ## Github link
 Repo link:
 https://github.com/Amritaraja/PasswordMagic.git
-Page link: 
+Page link: https://amritaraja.github.io/PasswordMagic/
 
 
 
